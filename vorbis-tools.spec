@@ -4,7 +4,7 @@
 #
 Name     : vorbis-tools
 Version  : 1.4.0
-Release  : 1
+Release  : 2
 URL      : http://downloads.xiph.org/releases/vorbis/vorbis-tools-1.4.0.tar.gz
 Source0  : http://downloads.xiph.org/releases/vorbis/vorbis-tools-1.4.0.tar.gz
 Summary  : No detailed summary available
