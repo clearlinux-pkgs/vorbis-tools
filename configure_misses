@@ -1,0 +1,6 @@
+Configure miss: AIX
+Configure miss: socket in -lnetwork
+Configure miss: AO
+Configure miss: FLAC__stream_decoder_init_ogg_stream in -lFLAC
+Configure miss: FLAC__stream_decoder_process_single in -lFLAC
+Configure miss: speex_decoder_init in -lspeex

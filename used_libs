@@ -1,0 +1,6 @@
+libc.so.6
+libm.so.6
+libogg.so.0
+libvorbis.so.0
+libvorbisenc.so.2
+libvorbisfile.so.3
